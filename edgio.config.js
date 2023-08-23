@@ -87,7 +87,7 @@ module.exports = {
       },
     },
   ],
-  "experiments": [{"id": "setheader_1692620651160", "name": "setheader", "active": True, "criteria": [],
+  "experiments": [{"id": "setheader_1692620651160", "name": "setheader", "active": true, "criteria": [],
                              "variants": [{"id": "header1_1692620655054", "name": "header1", "weight": 80,
                                            "features": [{"headers": {"set_response_headers": {"x-variant": "h1"}}}]},
                                           {"id": "header2_1692620658324", "name": "header2", "weight": 20,
